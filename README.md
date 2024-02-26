@@ -1,4 +1,4 @@
-#### Linux-Commands
+## Linux-Commands
 
 ### System Information and Management:
 - `uname`: Print system information, such as kernel name, version, and system architecture.
